@@ -5,38 +5,38 @@ import WebDesign from '../../assets/website-design.png'
 import Ai from '../../assets/ai2.png'
 
 function Skills() {
-  return (
-   <section id='skills'>
-    <span className='skillTitle'>What I Do</span>
-    <span className='skillDecs'>I am a skilled and passionate web designer with experience i creatig visually appealing and user-friendly websites.I have a strong understanding of design and a keen eye for detail. I am proficient in  HTML,css, and Javascript, as well as design software such as Adobe Photoshop and illustrator.</span>
-    <div className='skillBars'>
-        <div className='skillBar'>
-            <img src={FrontendDesign} alt='' className='skillBarImg'/>
-        <div className='skillBarText'>
-                      <h2>Frontend Design</h2>
-                      <p>This is the demo text.</p>
-            </div>   
+    return (
+        <section id='skills'>
+            <span className='skillTitle'>What I Do</span>
+            <span className='skillDecs'>I’m a Software Engineer and Machine Learning Engineer, skilled in developing scalable software solutions and building machine learning models. I focus on delivering efficient applications and optimizing ML systems for tasks like data analysis, prediction, and automation.</span>
+            <div className='skillBars'>
+                <div className='skillBar'>
+                    <img src={FrontendDesign} alt='' className='skillBarImg' />
+                    <div className='skillBarText'>
+                        <h2>Frontend Design</h2>
+                        <p>I specialize in frontend development using ReactJS to build dynamic interfaces.</p>
+                    </div>
 
-        </div>
-              <div className='skillBar'>
-                  <img src={WebDesign} alt='' className='skillBarImg' />
-                  <div className='skillBarText'>
-                      <h2>Website Design</h2>
-                      <p>This is the demo text.</p>
-                  </div>
+                </div>
+                <div className='skillBar'>
+                    <img src={WebDesign} alt='' className='skillBarImg' />
+                    <div className='skillBarText'>
+                        <h2>Website Design</h2>
+                        <p>I design responsive websites using Node.js and Express for backend.</p>
+                    </div>
 
-              </div>
-              <div className='skillBar'>
-                  <img src={Ai} alt='' className='skillBarImg' />
-                  <div className='skillBarText'>
-                      <h2>Artificial Intelligence</h2>
-                      <p>This is the demo text.</p>
-                  </div>
+                </div>
+                <div className='skillBar'>
+                    <img src={Ai} alt='' className='skillBarImg' />
+                    <div className='skillBarText'>
+                        <h2>Artificial Intelligence</h2>
+                        <p>I provide AI services to enhance decision-making and automation.</p>
+                    </div>
 
-              </div>
-    </div>
-   </section>
-  )
+                </div>
+            </div>
+        </section>
+    )
 }
 
 export default Skills

@@ -16,8 +16,10 @@
 
 .logo {
     object-fit: cover;
-    height: 13rem;
-    width: 8rem;
+    height: 7rem;
+    width: 7rem;
+    filter: brightness(1.6);
+    
 }
 
 .desktopMenuListItem {

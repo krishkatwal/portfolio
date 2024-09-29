@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './navbar.css'
-import logo from '../myasset/krish_logo.png'
+import logo from '../myasset/krish_final.png'
 import contact from '../assets/contact.png'
 import { Link } from 'react-scroll'
 import menu from '../assets/menu.png'

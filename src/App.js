@@ -6,6 +6,7 @@ import Contact from "./components/Contact/contact";
 import Footer from './components/Footer/footer'
 import Hero from './components/Hero/hero'
 import Project from './components/Projects/project'
+import TestimonialSlider from "./components/Testimonial/testimonial";
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <Skills />
       <Project />
+      
       <Contact />
       <Footer />
     </div>

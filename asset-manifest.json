@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2881a064.css",
-    "main.js": "/static/js/main.b1f9450c.js",
+    "main.css": "/static/css/main.4ba4c080.css",
+    "main.js": "/static/js/main.8d95695e.js",
     "static/media/BigData.png": "/static/media/BigData.769ecdd8f4ec391d1565.png",
     "static/media/movie.png": "/static/media/movie.5d565ad1d4a512cf6ed5.png",
     "static/media/image.png": "/static/media/image.00cdf3615da8d4c54ace.png",
@@ -13,22 +13,30 @@
     "static/media/portfolio-1.png": "/static/media/portfolio-1.b33adf772d54ab33e953.png",
     "static/media/portfolio-5.png": "/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
     "static/media/portfolio-3.png": "/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/krish_logo.png": "/static/media/krish_logo.a39748d1be64e557faba.png",
+    "static/media/krish_final.png": "/static/media/krish_final.0d64d1a092ea247f8545.png",
+    "static/media/shrawan.jpg": "/static/media/shrawan.d5c03473ce5d8255153a.jpg",
     "static/media/tesla.jpg": "/static/media/tesla.ca8c4957e2306222688a.jpg",
+    "static/media/sandeep.jpg": "/static/media/sandeep.a111864fb2065c8ffe78.jpg",
     "static/media/netflix.jpg": "/static/media/netflix.ce9d2d17aa7d2825e2e4.jpg",
     "static/media/autism.jpg": "/static/media/autism.4bf95216ec0bcb1c3472.jpg",
+    "static/media/sarba.jpg": "/static/media/sarba.46627e14f979a8e6e833.jpg",
+    "static/media/rajendra.jpg": "/static/media/rajendra.00b56b15aa6d5a00d00b.jpg",
     "static/media/github2.png": "/static/media/github2.7c8f7736007664c4b0ba.png",
     "static/media/react1.png": "/static/media/react1.3b5049ea7908e9da3ba0.png",
     "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
     "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
     "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
     "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.2881a064.css.map": "/static/css/main.2881a064.css.map",
-    "main.b1f9450c.js.map": "/static/js/main.b1f9450c.js.map"
+    "main.4ba4c080.css.map": "/static/css/main.4ba4c080.css.map",
+    "main.8d95695e.js.map": "/static/js/main.8d95695e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2881a064.css",
-    "static/js/main.b1f9450c.js"
+    "static/css/main.4ba4c080.css",
+    "static/js/main.8d95695e.js"
   ]
 }

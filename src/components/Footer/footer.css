@@ -7,4 +7,20 @@
     justify-content: center;
     font-weight: 300;
     font-size: small;
+    
+
+}
+
+@media screen and (max-width: 720px) {
+    .footer {
+        height: 3.5rem;
+        /* Reduce height for smaller screens */
+        font-size: 0.84rem;
+        /* Slightly smaller font */
+       
+        padding: 0 10px;
+        /* Add padding to avoid edges being too close */
+        text-align: center;
+        /* Center text if it overflows */
+    }
 }

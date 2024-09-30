@@ -25,7 +25,7 @@ const testimonialsData = [
     {
         message: "Amazing experience! Customer service is top-notch.",
         name: "Rajendra Thapa",
-        position: "Marketing of Eprima Technology",
+        position: "Marketing Head of Eprima Technology",
         image: rajendra
     }
 ];

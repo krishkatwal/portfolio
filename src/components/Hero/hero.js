@@ -53,7 +53,7 @@ function Hero() {
         
       <img src={Krish}  alt=''  className='krish' />
          
-           <span>I'm <span className='heroName'>Krish</span>,<span >{text}</span><br/>  based in Nepal. </span>
+      <span>I'm <span >Krish</span>,<span className='heroName'>{text}</span><br/>  based in Nepal. </span>
         <p className='introPara'>I am skilled and passionate software developer with experience in creating excellent website.</p>
           <div className='heroaction'>
               <Link>

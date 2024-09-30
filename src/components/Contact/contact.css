@@ -21,6 +21,7 @@
     font-weight: 300;
     font-size: 1rem;
     
+    
 }
 
 .clientImgs{
@@ -88,4 +89,21 @@
     height: 3rem;
     width: 3rem;
     margin: 0 0.75rem;
+}
+
+@media screen and (max-width: 720px) {
+
+
+    .contactDesc {
+            padding: 2rem;
+            font-size: 3vw;
+            font-weight: 300;
+            
+        }
+                #clients{
+                    padding: 15px;
+                    max-width: 100%;
+                    /* Container should not overflow */
+                    width: auto;
+                }
 }

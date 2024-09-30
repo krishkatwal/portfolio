@@ -6,7 +6,7 @@
 
 .testimonial-card {
     text-align: center;
-
+    
     padding: 20px;
     /* border: 1px solid #ddd; */
     border-radius: 10px;
@@ -31,14 +31,14 @@
     border-radius: 100%;
     margin-right: 10px;
 } */
-.author-image {
-    border-radius: 100%;
-    margin-right: 10px;
-    width: 50px;
-
-    height: 50px;
-
-}
+ .author-image {
+     border-radius: 100%;
+     margin-right: 10px;
+     width: 50px;
+     
+     height: 50px;
+    
+ }
 
 h4 {
     margin: 0;
@@ -46,8 +46,40 @@ h4 {
 }
 
 p {
-
+    
     margin: 0;
-
+  
     color: #777;
+}
+
+/* testimonial.css */
+.slick-dots li button:before {
+    color: white;
+    /* White dots */
+}
+
+.slick-dots li.slick-active button:before {
+    color: white;
+    /* Keep active dot white */
+}
+
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before {
+    color: white;
+    /* White dots on hover/focus */
+}
+
+@media screen and (max-width: 720px) {
+ 
+
+    .testimonial-message {
+        font-size: 0.86rem;
+        margin-bottom: 15px;
+    }
+         .testimonial-slider{
+             padding: 15px;
+             max-width: 90%;
+             /* Container should not overflow */
+             width: auto;
+         }
 }

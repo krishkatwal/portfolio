@@ -63,7 +63,7 @@
 .mobMenu{
     display: none;
     object-fit: cover;
-    height: 3rem;
+    height: 1.8rem;
 }
 .mobileMenu{
     position: absolute;
@@ -86,15 +86,8 @@
     padding: 0.5rem 3rem;
     margin: 0.25rem;
     background: rgb(30, 30, 30);
-    cursor: pointer;
 
 }
-
-.listItem:hover {
-    color: #549db8;
-
-}
-
 
 
 @media screen and (max-width: 720px){

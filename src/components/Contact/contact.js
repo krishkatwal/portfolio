@@ -36,9 +36,9 @@ function Contact() {
         <section id='contactPage'>
             <div id='clients'>
                 <h1 className='contactPageTitle'>My Clients</h1>
-                <p className='contactDesc'>
+                <span className='contactDesc'>
                     I have had the opportunity to work with diverse people, including some notable individuals.
-                </p>
+                </span>
                 <TestimonialSlider />
                 {/* <div className='clientImgs'>
                     <img src={Walmart} alt='' className='clientImg' />
